@@ -21,4 +21,4 @@ This project was built as part of my Software Engineering journey to practice Py
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone 
+   git clone https://github.com/Pedrogall007/1y
